@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Random Forest from Scratch/*
+!/Random Forest from Scratch/task/
+/Random Forest from Scratch/task/*
+!/Random Forest from Scratch/task/Student.py
+!/Random Forest from Scratch/task/plot_RF.png
